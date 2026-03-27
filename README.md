@@ -5,8 +5,9 @@ A lightweight Android demo built with Jetpack Compose that showcases a smooth, i
 The app displays four shoe icons. Tapping an icon animates floating spec cards above it. Tapping any popup image opens a fullscreen preview with a smooth transition, and tapping again returns to the main screen.
 
 ## Demo
+<video src="https://github.com/UmairOye/animated_bar/blob/main/demo/demo"></video>
 
-<video src="https://github.com/UmairOye/animated_bar/blob/main/demo/demo.mp4"></video>
+<!-- <video src="https://github.com/UmairOye/animated_bar/blob/main/demo/demo.mp4"></video> -->
 
 
 ## Features
