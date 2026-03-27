@@ -4,6 +4,11 @@ A lightweight Android demo built with Jetpack Compose that showcases a smooth, i
 
 The app displays four shoe icons. Tapping an icon animates floating spec cards above it. Tapping any popup image opens a fullscreen preview with a smooth transition, and tapping again returns to the main screen.
 
+## Demo
+
+![Demo](demo/demo.gif)
+
+
 ## Features
 
 - White, minimal UI focused on interaction
@@ -45,9 +50,6 @@ Pose/spec images currently wired:
 - `two_one`, `two_two`, `two_three`
 - `three_first`, `three_second`, `three_third`
 
-## Demo
-
-![Demo](demo/demo.gif)
 
 ## Getting Started
 
