@@ -47,9 +47,9 @@ Pose/spec images currently wired:
 
 ## Demo
 
-<video src="demo/demo.mov" controls muted playsinline width="100%"></video>
+<video src="demo/demo.mp4" controls muted playsinline width="100%"></video>
 
-If inline playback is blocked on your repo view, use: [`demo/demo.mov`](demo/demo.mov)
+If inline playback is blocked on your repo view, use: [`demo/demo.mp4`](demo/demo.mp4)
 
 ## Getting Started
 
