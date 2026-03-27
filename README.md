@@ -47,8 +47,9 @@ Pose/spec images currently wired:
 
 ## Demo
 
-- Local demo video: [`demo/demo.mov`](demo/demo.mov)
-- GitHub hosted video link (optional): `PASTE_VIDEO_URL_HERE`
+<video src="demo/demo.mov" controls muted playsinline width="100%"></video>
+
+If inline playback is blocked on your repo view, use: [`demo/demo.mov`](demo/demo.mov)
 
 ## Getting Started
 
